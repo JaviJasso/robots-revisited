@@ -1,0 +1,7 @@
+{
+  "public": true,
+  "dependencies": {
+    "express": "^4.15.4",
+    "mustache-express": "^1.2.5"
+  }
+}
